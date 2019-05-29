@@ -34,7 +34,7 @@ int main() {
 
 ### Diagrama de Clases (alto nivel)
 
-
+![Diagrama de Clases](DiagramaDeClases.png)
 
 ### Cronograma
 
