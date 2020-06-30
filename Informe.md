@@ -7,7 +7,7 @@ Trabajo Final
 ### Integrantes
 * Jon Snow
 * Tormund
-* Ghost el direwolf
+* Ghost el Direwolf
 * Yo
 
 ### Introducción
